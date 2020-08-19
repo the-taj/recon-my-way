@@ -2,11 +2,7 @@
 
 ###  Tools and scripts setting up guide for personal use. 
 
-This repository contains the tools and scripts, I added in my recent blog post "Recon-My way" and I personally use. 
-
-Here is my blog post https://medium.com/ehsahil/recon-my-way-82b7e5f62e21
-
-Machine Configuration I use - Debian- 9.4, 4 GB RAM on DigitalOcean (You can use any config but this is recommended)
+Machine Configuration: VirtualBox Ubuntu 20.04 Template.
 
 ## Important things to Install before setting up tools (Debian Based OS)
 
